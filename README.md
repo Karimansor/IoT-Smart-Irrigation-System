@@ -1,38 +1,31 @@
-# Smart Irrigation System
+# [Smart Irrigation System](https://drive.google.com/drive/u/0/folders/137hmX2knQsj1rgZ1YBJ6Hfp3OyhlgcGd)
 
 ## Overview
 
-This project implements a smart irrigation system using a NodeMCU ESP8266, designed to optimize water usage and improve plant health. It monitors soil moisture, temperature, and humidity in real time, and can automatically or manually control irrigation via the Blynk IoT platform.
+A smart irrigation system using NodeMCU ESP8266 that automates watering based on soil moisture and allows remote control via Blynk.
 
 ## Features
 
-- Real-time monitoring of soil moisture, temperature, and humidity  
-- Automatic irrigation when moisture drops below 30%  
-- Remote manual pump control via Blynk  
-- Notifications on irrigation events (auto/manual)  
-- Blynk dashboard for data visualization and control
+- Real-time soil moisture, temperature, and humidity monitoring  
+- Auto irrigation below 30% moisture  
+- Manual control via Blynk  
+- Notifications on irrigation events  
+- Blynk dashboard for data and control
 
-## Hardware Used
+## Components
 
 - NodeMCU ESP8266  
 - Soil moisture sensor  
-- DHT11 temperature and humidity sensor  
+- DHT11 sensor  
 - Relay module  
 - Water pump
 
-## Problem Statement
+## Problem & Objectives
 
-Conventional irrigation systems often waste water and fail to meet plant needs. This system addresses the inefficiency by using real-time sensor data to make irrigation decisions and offering users remote access and control.
+Traditional irrigation methods waste water and lack accuracy. This project aims to:
 
-## Objectives
-
-- Automate irrigation based on soil moisture  
-- Enable remote manual control via Blynk  
-- Provide real-time sensor data  
-- Notify users of irrigation activity  
-- Offer a scalable, low-cost solution
-
-## Video Demonstration
-
-A video version of the project is available at the following link:  
-[Smart Irrigation System - Video Folder](https://drive.google.com/drive/u/0/folders/137hmX2knQsj1rgZ1YBJ6Hfp3OyhlgcGd)
+- Automate irrigation using sensor data  
+- Enable remote manual control  
+- Display real-time data  
+- Notify users of activity  
+- Offer a cost-effective, scalable solution
