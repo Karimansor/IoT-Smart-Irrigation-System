@@ -1,4 +1,4 @@
-# [Smart Irrigation System](https://drive.google.com/drive/u/0/folders/137hmX2knQsj1rgZ1YBJ6Hfp3OyhlgcGd)
+# Smart Irrigation System
 
 ## Overview
 
