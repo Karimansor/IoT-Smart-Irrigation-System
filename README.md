@@ -1,8 +1,22 @@
 # Smart Irrigation System
-
 ## Overview
 
 A smart irrigation system using NodeMCU ESP8266 that automates watering based on soil moisture and allows remote control via Blynk.
+
+
+
+![Alt Text](IMG-20250427-WA0003.jpg)
+
+
+## Problem & Objectives
+
+Traditional irrigation methods waste water and lack accuracy. This project aims to:
+
+- Automate irrigation using sensor data  
+- Enable remote manual control  
+- Display real-time data  
+- Notify users of activity  
+- Offer a cost-effective, scalable solution
 
 ## Features
 
@@ -20,12 +34,10 @@ A smart irrigation system using NodeMCU ESP8266 that automates watering based on
 - Relay module  
 - Water pump
 
-## Problem & Objectives
 
-Traditional irrigation methods waste water and lack accuracy. This project aims to:
 
-- Automate irrigation using sensor data  
-- Enable remote manual control  
-- Display real-time data  
-- Notify users of activity  
-- Offer a cost-effective, scalable solution
+
+
+
+
+
